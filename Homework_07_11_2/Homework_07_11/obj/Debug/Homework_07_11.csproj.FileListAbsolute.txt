@@ -1,0 +1,7 @@
+C:\Users\Fantast\source\repos\Homework_07_11_1\Homework_07_11\bin\Debug\Homework_07_11.exe.config
+C:\Users\Fantast\source\repos\Homework_07_11_1\Homework_07_11\bin\Debug\Homework_07_11.exe
+C:\Users\Fantast\source\repos\Homework_07_11_1\Homework_07_11\bin\Debug\Homework_07_11.pdb
+C:\Users\Fantast\source\repos\Homework_07_11_1\Homework_07_11\obj\Debug\Homework_07_11.csproj.AssemblyReference.cache
+C:\Users\Fantast\source\repos\Homework_07_11_1\Homework_07_11\obj\Debug\Homework_07_11.csproj.CoreCompileInputs.cache
+C:\Users\Fantast\source\repos\Homework_07_11_1\Homework_07_11\obj\Debug\Homework_07_11.exe
+C:\Users\Fantast\source\repos\Homework_07_11_1\Homework_07_11\obj\Debug\Homework_07_11.pdb

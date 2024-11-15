@@ -1,0 +1,7 @@
+C:\Users\Fantast\source\repos\3_massives\3_massives\bin\Debug\3_massives.exe.config
+C:\Users\Fantast\source\repos\3_massives\3_massives\bin\Debug\3_massives.exe
+C:\Users\Fantast\source\repos\3_massives\3_massives\bin\Debug\3_massives.pdb
+C:\Users\Fantast\source\repos\3_massives\3_massives\obj\Debug\3_massives.csproj.AssemblyReference.cache
+C:\Users\Fantast\source\repos\3_massives\3_massives\obj\Debug\3_massives.csproj.CoreCompileInputs.cache
+C:\Users\Fantast\source\repos\3_massives\3_massives\obj\Debug\3_massives.exe
+C:\Users\Fantast\source\repos\3_massives\3_massives\obj\Debug\3_massives.pdb
